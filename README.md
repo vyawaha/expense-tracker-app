@@ -137,5 +137,5 @@ If you found this useful:
 Muktai Vyawahare
 
 🔗 Connect With Me
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/muktai-vyawahare-aa9b12312?utm_source=share_via&utm_content=profile&utm_medium=member_android
 GitHub: https://github.com/vyawaha/expense-tracker-app.git
